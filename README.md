@@ -1,4 +1,4 @@
-# Bloc 2 - Analyse exploratoire, descriptive et inférentielle de données
+# Bloc 3 - Analyse prédictive de données structurées par l'intelligence artificielle
 
 You will find three files in this bloc:
 
