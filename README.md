@@ -1,8 +1,5 @@
 # Bloc 3 - Analyse prédictive de données structurées par l'intelligence artificielle
 
-Explanation video : https://share.vidyard.com/watch/c2hsJePazA2qjgdEMXzsVt?
-email : ymilo.certification@protonmail.com
-
 You will find three files in this bloc:
 
 ## Wallmart file:
